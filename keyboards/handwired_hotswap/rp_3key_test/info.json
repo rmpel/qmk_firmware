@@ -2,13 +2,13 @@
     "manufacturer": "Remon Pel",
     "keyboard_name": "3key_test",
     "maintainer": "rmpel",
+    "processor": "atmega32u4",
     "bootloader": "caterina",
     "diode_direction": "COL2ROW",
     "matrix_pins": {
         "cols": ["B4", "E6", "D7" ],
         "rows": ["B5" ]
     },
-    "processor": "atmega32u4",
     "url": "",
     "usb": {
         "device_version": "1.0.0",

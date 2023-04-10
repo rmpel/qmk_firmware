@@ -2,7 +2,7 @@
     "manufacturer": "Remon Pel",
     "keyboard_name": "handwired_hotswap/rp_numpad_4x6",
     "maintainer": "rmpel",
-    "bootloader": "atmel-dfu",
+    "bootloader": "halfkay",
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
@@ -13,8 +13,8 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["C2", "C2", "C2", "C2"],
-        "rows": ["D1", "D1", "D1", "D1", "D1", "D1"]
+        "cols": ["C7", "C6", "D3", "D2"],
+        "rows": ["D7", "B4", "B5", "B6", "F7", "F6"]
     },
     "processor": "atmega32u4",
     "url": "",
